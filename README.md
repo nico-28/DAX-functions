@@ -1,2 +1,3 @@
-# DAX-functions
-Repositorio modo biblioteca con funciones DAX dividas por respectivas categorias
+# Librería de Medidas DAX por Categoría
+
+Repositorio para centralizar medidas DAX reutilizables.
